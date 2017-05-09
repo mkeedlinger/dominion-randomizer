@@ -9,6 +9,9 @@
   "bin": {
     "dominion": "index.js"
   },
+  "pkg": {
+    "assets": ["cards.json", "package.json"]
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mkeedlinger/dominion-randomizer-cli.git"
